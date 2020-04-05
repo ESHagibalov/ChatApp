@@ -1,5 +1,5 @@
 # ChatApp
-Программа написана при просмотрe [видео курса](https://itproger.com/course/android-chat)
+Программа написана при просмотрe [видео курса](https://itproger.com/course/android-chat) (с изменением старых версий библиотек на более новые)
 ========
 использовалась база данных [FireBase Data Base](https://firebase.google.com/docs)
 =========
