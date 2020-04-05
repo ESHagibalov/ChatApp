@@ -1,5 +1,7 @@
 # ChatApp
-Программа написана при просмотра [видео курса](https://itproger.com/course/android-chat)
+Программа написана при просмотрe [видео курса](https://itproger.com/course/android-chat)
+========
+использовалась база данных [FireBase Data Base](https://firebase.google.com/docs)
 =========
 **При входе появляется первый экран регистрации с почтой**
 ![alt text](Screenshot_20200405-213650_ChatApp.jpg) 
