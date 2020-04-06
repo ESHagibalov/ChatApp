@@ -1,9 +1,9 @@
 # ChatApp
-Программа написана при просмотрe [видео курса](https://itproger.com/course/android-chat) (с изменением старых версий библиотек на более новые)
+App made during [the video course](https://itproger.com/course/android-chat) (old version of libraries were changed to new versions, )
 ========
-использовалась база данных [FireBase Data Base](https://firebase.google.com/docs)
+I used [FireBase Data Base](https://firebase.google.com/docs)
 =========
-**При входе появляется первый экран регистрации с почтой**
+**First you can see first sign up screen**
 ![alt text](Screenshot_20200405-213650_ChatApp.jpg) 
-**после ввода почты появляется второй экран регистрации** ![alt text](Screenshot_20200405-213702_ChatApp.jpg)
-**далее открывается общий чат для всех пользователей** ![alt text](Screenshot_20200405-213748_ChatApp.jpg)
+**Next second part of the sign up** ![alt text](Screenshot_20200405-213702_ChatApp.jpg)
+**FInally you can use this chat with other registered users** ![alt text](Screenshot_20200405-213748_ChatApp.jpg)
